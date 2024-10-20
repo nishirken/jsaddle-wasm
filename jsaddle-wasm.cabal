@@ -33,7 +33,7 @@ library
     , async
     , base
     , bytestring
-    , ghc-experimental
+    , ghc
     , jsaddle
     , stm
   hs-source-dirs: src
